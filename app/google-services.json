@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1089711258513",
+    "project_id": "mining-590d7",
+    "storage_bucket": "mining-590d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089711258513:android:4a75e53a1d410c4b1f3830",
+        "android_client_info": {
+          "package_name": "com.cryptrax.trx_miner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089711258513-cnccidebqnkfdi44idk63rjtplojqq4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cryptrax.trx_miner",
+            "certificate_hash": "91908bbe45b8cbdf1d42e313008346fa5ff1f744"
+          }
+        },
+        {
+          "client_id": "1089711258513-c2krvr0hiqhtucklhiavs2rg3o1n29pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHx5234sHSbspotAQ9lsg6G3o_JnBFzkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089711258513-c2krvr0hiqhtucklhiavs2rg3o1n29pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
